@@ -2,7 +2,6 @@ package org.example;
 
 public class TestClass {
     public int summ(int a, int b) {
-
         return a + b;
     }
 
